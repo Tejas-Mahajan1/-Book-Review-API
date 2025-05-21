@@ -105,5 +105,3 @@ curl "http://localhost:5000/api/search?q=harry"
 - Search is case-insensitive and partial for title/author.
 
 ---
-
-**Happy coding!**
